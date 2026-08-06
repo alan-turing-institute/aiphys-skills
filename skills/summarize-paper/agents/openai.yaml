@@ -1,0 +1,4 @@
+interface:
+  display_name: "Summarize Paper"
+  short_description: "Technical paper summaries and article notes"
+  default_prompt: "Use $summarize-paper to create a source-audited, maths-aware summary or detailed article note for this paper."
